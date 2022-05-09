@@ -1,4 +1,4 @@
-# Declarative Examples
+# Declarative Example....
 
 This folder is a home for snippets, tips and tricks and examples for writing Declarative Pipelines with the
 [Jenkins Pipeline plugin](https://github.com/jenkinsci/workflow-plugin/blob/master/README.md).
